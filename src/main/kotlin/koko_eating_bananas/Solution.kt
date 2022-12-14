@@ -1,3 +1,5 @@
+package koko_eating_bananas
+
 class Solution {
     fun minEatingSpeed(piles: IntArray, h: Int): Int {
         var min = 1
