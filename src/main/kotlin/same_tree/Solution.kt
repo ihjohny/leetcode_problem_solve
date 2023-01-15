@@ -11,8 +11,3 @@ class Solution {
         return (left && right)
     }
 }
-
-class TreeNode(var value: Int) {
-    var left: TreeNode? = null
-    var right: TreeNode? = null
-}
